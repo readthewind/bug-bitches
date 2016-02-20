@@ -10,10 +10,13 @@ public class Bug {
     /* This is the bug constructor.*/
   }
   
-  public static void main(String[] args) { 
-    
+  public void charBug(){
+  
   }
   
-  /*  */
+  public void nomBug(){
+  
+  }
+  
   
 }
