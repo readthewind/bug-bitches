@@ -6,7 +6,7 @@
 
 public class Bug {
   
-  public Bug() { 
+  public Bug(int bugType) { 
     /* This is the bug constructor.*/
   }
   
