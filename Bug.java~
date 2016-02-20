@@ -4,13 +4,13 @@
 public class Bug {
   
   public Bug() { 
-    /* This is the bug constructor.*/
+    /* YOUR CONSTRUCTOR CODE HERE*/
   }
   
   public static void main(String[] args) { 
     
   }
   
-  /*  */
+  /* ADD YOUR CODE HERE */
   
 }
